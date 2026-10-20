@@ -190,4 +190,4 @@ PostgreSQL Global Development Group. (s. f.). *PostgreSQL 18 documentation*. htt
 
 <a id="ia"></a>
 ## 6. Declaración de uso de inteligencia artificial
-
+Para esta práctica se utilizó un aproximado de 20% de inteligencia artificial, especialmente para corrección de ortografía, gramática y coherencia en ciertos parrafos.
